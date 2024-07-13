@@ -16,7 +16,7 @@ Check out the live demo [here](https://todohero.netlify.app).
 
 ## Screenshots
 
-![Screenshot (241)](https://github.com/Priyanka9321/currency-convertor/assets/91218634/0e97e215-d084-4253-bd75-d83c664101a5)
+![daily-planner](https://github.com/user-attachments/assets/0e401fcf-8734-47ba-a129-0cd8e8d24ccd)
 
 ## Getting Started
 
