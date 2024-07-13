@@ -1,8 +1,48 @@
-# React + Vite
+# Daily Planner App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules
+This is a simple Todo application built using React and Vite. It allows users to add, update, delete, and mark todos as completed. The todos are stored in the browser's localStorage to persist data across sessions.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add a new todo
+- Update an existing todo
+- Delete a todo
+- Mark a todo as completed/uncompleted
+- Persist todos in localStorage
+
+## Live Demo
+
+Check out the live demo [here](https://todohero.netlify.app).
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (>= 14.x)
+- npm (>= 6.x) or yarn (>= 1.x)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Priyanka9321/DailyPlanner.git
+   cd DailyPlanner
+
+2. Install the dependencies:
+   
+    ```bash
+   npm install
+   # or
+   yarn install
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+  
+### License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
