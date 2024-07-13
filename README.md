@@ -14,6 +14,10 @@ This is a simple Todo application built using React and Vite. It allows users to
 
 Check out the live demo [here](https://todohero.netlify.app).
 
+## Screenshots
+
+![Screenshot (241)](https://github.com/Priyanka9321/currency-convertor/assets/91218634/0e97e215-d084-4253-bd75-d83c664101a5)
+
 ## Getting Started
 
 ### Prerequisites
